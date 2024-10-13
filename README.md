@@ -10,9 +10,8 @@ This repository contains my work in Microsoft Excel.
 - Applied Excel's advanced tools to create an interactive and visually engaging sales report.
 - Analyzed sales trends, customer preferences, and peak hours to offer actionable business insights.
 - Designed user-friendly dashboards with slicers, filters, and drill-through options for easy data exploration.
-
+- 
 <br>
-
 # Sales Dashboard
 I have utilized following items in building sales dashboard which analyzes Year by category and region.
 <br>
