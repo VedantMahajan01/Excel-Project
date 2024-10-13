@@ -12,6 +12,7 @@ This repository contains my work in Microsoft Excel.
 - Designed user-friendly dashboards with slicers, filters, and drill-through options for easy data exploration.
   
 <br>
+
 # Sales Dashboard
 I have utilized following items in building sales dashboard which analyzes Year by category and region.
 <br>
